@@ -1,3 +1,3 @@
-# WP Teleport Website
+# Hopscotch (formerly WP Teleport Website)
 
-Website for http://github.com/beaucollins/wp-teleport
+See http://github.com/beaucollins/hopscotch
